@@ -232,8 +232,8 @@
             "id": 12,
             "name": "阿拉丁神灯",
             "sort": 1,
-            "en": "http://124.156.59.127:902/?GameId=12",
-            "zh": "http://124.156.59.127:902/?GameId=12&lang=en"
+            "en": "http://124.156.59.127:902/?roomId=2&GameId=12",
+            "zh": "http://124.156.59.127:902/?roomId=2&GameId=12&lang=en"
         },{
             "id": 34,
             "name": "奔驰宝马",
