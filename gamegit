@@ -48,22 +48,22 @@
             "id": 67,
             "name": "Domino",
             "sort": 1,
-            "en": "http://124.156.59.127:901/?GameId=67",
-            "zh": "http://124.156.59.127:901/?GameId=67&lang=en"
+            "en": "http://124.156.59.127:904/?GameId=67",
+            "zh": "http://124.156.59.127:904/?GameId=67&lang=en"
         },
         {
             "id": 66,
             "name": "DOUBLE",
             "sort": 1,
-            "en": "http://124.156.59.127:901/?GameId=66",
-            "zh": "http://124.156.59.127:901/?GameId=66&lang=en"
+            "en": "http://124.156.59.127:904/?GameId=66",
+            "zh": "http://124.156.59.127:904/?GameId=66&lang=en"
         },
         {
             "id": 60,
             "name": "德州扑克",
             "sort": 1,
-            "en": "http://124.156.59.127:901/?roomId=2&GameId=60",
-            "zh": "http://124.156.59.127:901/?roomId=2&GameId=60&lang=en"
+            "en": "http://124.156.59.127:904/?roomId=2&GameId=60",
+            "zh": "http://124.156.59.127:904/?roomId=2&GameId=60&lang=en"
         },
         {
             "id": 51,
@@ -125,8 +125,8 @@
             "id": 79,
             "name": "13水",
             "sort": 1,
-            "en": "http://124.156.59.127:901/?roomId=2&GameId=79",
-            "zh": "http://124.156.59.127:901/?roomId=2&GameId=79&lang=en"
+            "en": "http://124.156.59.127:904/?roomId=2&GameId=79",
+            "zh": "http://124.156.59.127:904/?roomId=2&GameId=79&lang=en"
         },
         {
             "id": 43,
@@ -139,8 +139,8 @@
             "id": 37,
             "name": "通比牛牛",
             "sort": 1,
-            "en": "http://124.156.59.127:901/?GameId=37",
-            "zh": "http://124.156.59.127:901/?GameId=37&lang=en"
+            "en": "http://124.156.59.127:904/?GameId=37",
+            "zh": "http://124.156.59.127:904/?GameId=37&lang=en"
         },
         {
             "id": 77,
@@ -274,8 +274,8 @@
             "id": 11,
             "name": "超级金库",
             "sort": 1,
-            "en": "http://124.156.59.127:902/?GameId=11",
-            "zh": "http://124.156.59.127:902/?GameId=11&lang=en"
+            "en": "http://124.156.59.127:904/?GameId=11",
+            "zh": "http://124.156.59.127:904/?GameId=11&lang=en"
         },{
             "id": 40,
             "name": "水果机",
@@ -304,14 +304,14 @@
             "id": 2,
             "name": "多福多彩",
             "sort": 1,
-            "en": "http://124.156.59.127:902/?GameId=2",
-            "zh": "http://124.156.59.127:902/?GameId=2&lang=en"
+            "en": "http://124.156.59.127:904/?GameId=2",
+            "zh": "http://124.156.59.127:904/?GameId=2&lang=en"
         },{
             "id": 64,
             "name": "斗鸡",
             "sort": 1,
-            "en": "http://124.156.59.127:902/?GameId=64",
-            "zh": "http://124.156.59.127:902/?GameId=64&lang=en"
+            "en": "http://124.156.59.127:904/?GameId=64",
+            "zh": "http://124.156.59.127:904/?GameId=64&lang=en"
         },{
             "id": 57,
             "name": "制服宝贝",
@@ -340,8 +340,8 @@
             "id": 52,
             "name": "众神之王",
             "sort": 1,
-            "en": "http://124.156.59.127:903/?GameId=52",
-            "zh": "http://124.156.59.127:903/?GameId=52&lang=en"
+            "en": "http://124.156.59.127:904/?GameId=52",
+            "zh": "http://124.156.59.127:904/?GameId=52&lang=en"
         },{
             "id": 58,
             "name": "迷幻之夜",
@@ -388,14 +388,14 @@
             "id": 14,
             "name": "招财进宝",
             "sort": 1,
-            "en": "http://124.156.59.127:903/?GameId=14",
-            "zh": "http://124.156.59.127:903/?GameId=14&lang=en"
+            "en": "http://124.156.59.127:904/?GameId=14",
+            "zh": "http://124.156.59.127:904/?GameId=14&lang=en"
         },{
             "id": 17,
             "name": "夜上海",
             "sort": 1,
-            "en": "http://124.156.59.127:903/?GameId=17",
-            "zh": "http://124.156.59.127:903/?GameId=17&lang=en"
+            "en": "http://124.156.59.127:904/?GameId=17",
+            "zh": "http://124.156.59.127:904/?GameId=17&lang=en"
         },{
             "id": 18,
             "name": "鼠来宝",
@@ -442,8 +442,8 @@
             "id": 26,
             "name": "游艇大亨",
             "sort": 1,
-            "en": "http://124.156.59.127:903/?roomId=2&GameId=26",
-            "zh": "http://124.156.59.127:903/?roomId=2&GameId=26&lang=en"
+            "en": "http://124.156.59.127:904/?roomId=2&GameId=26",
+            "zh": "http://124.156.59.127:904/?roomId=2&GameId=26&lang=en"
         },{
             "id": 27,
             "name": "糖果万圣节",
@@ -480,8 +480,8 @@
             "id": 50,
             "name": "抢庄二八杠",
             "sort": 1,
-            "en": "http://124.156.59.127:903/?GameId=50",
-            "zh": "http://124.156.59.127:903/?GameId=50&lang=en"
+            "en": "http://124.156.59.127:904/?GameId=50",
+            "zh": "http://124.156.59.127:904/?GameId=50&lang=en"
         }
     ]
 }
