@@ -62,8 +62,8 @@
             "id": 60,
             "name": "德州扑克",
             "sort": 1,
-            "en": "http://124.156.59.127:901/?GameId=60",
-            "zh": "http://124.156.59.127:901/?GameId=60&lang=en"
+            "en": "http://124.156.59.127:901/?roomId=2&GameId=60",
+            "zh": "http://124.156.59.127:901/?roomId=2&GameId=60&lang=en"
         },
         {
             "id": 51,
@@ -111,8 +111,8 @@
             "id": 38,
             "name": "抢庄牛牛",
             "sort": 1,
-            "en": "http://124.156.59.127:901/?GameId=38",
-            "zh": "http://124.156.59.127:901/?GameId=38&lang=en"
+            "en": "http://124.156.59.127:901/?roomId=2&GameId=38",
+            "zh": "http://124.156.59.127:901/?roomId=2&GameId=38&lang=en"
         },
         {
             "id": 65,
@@ -125,8 +125,8 @@
             "id": 79,
             "name": "13水",
             "sort": 1,
-            "en": "http://124.156.59.127:901/?GameId=79",
-            "zh": "http://124.156.59.127:901/?GameId=79&lang=en"
+            "en": "http://124.156.59.127:901/?roomId=2&GameId=79",
+            "zh": "http://124.156.59.127:901/?roomId=2&GameId=79&lang=en"
         },
         {
             "id": 43,
@@ -214,20 +214,20 @@
             "id": 7,
             "name": "金猪报喜",
             "sort": 1,
-            "en": "http://124.156.59.127:902/?GameId=7",
-            "zh": "http://124.156.59.127:902/?GameId=7&lang=en"
+            "en": "http://124.156.59.127:902/?roomId=2&GameId=7",
+            "zh": "http://124.156.59.127:902/?roomId=2&GameId=7&lang=en"
         },    {
             "id": 54,
             "name": "凛冬将至",
             "sort": 1,
-            "en": "http://124.156.59.127:902/?GameId=54",
-            "zh": "http://124.156.59.127:902/?GameId=54&lang=en"
+            "en": "http://124.156.59.127:902/?roomId=2&GameId=54",
+            "zh": "http://124.156.59.127:902/?roomId=2&GameId=54&lang=en"
         },    {
             "id": 10,
             "name": "埃及探险",
             "sort": 1,
-            "en": "http://124.156.59.127:902/?GameId=10",
-            "zh": "http://124.156.59.127:902/?GameId=10&lang=en"
+            "en": "http://124.156.59.127:902/?roomId=2&GameId=10",
+            "zh": "http://124.156.59.127:902/?roomId=2&GameId=10&lang=en"
         },    {
             "id": 12,
             "name": "阿拉丁神灯",
@@ -316,8 +316,8 @@
             "id": 57,
             "name": "制服宝贝",
             "sort": 1,
-            "en": "http://124.156.59.127:903/?GameId=57",
-            "zh": "http://124.156.59.127:903/?GameId=57&lang=en"
+            "en": "http://124.156.59.127:903/?roomId=2&GameId=57",
+            "zh": "http://124.156.59.127:903/?roomId=2&GameId=57&lang=en"
         },{
             "id": 5,
             "name": "水浒传",
@@ -346,8 +346,8 @@
             "id": 58,
             "name": "迷幻之夜",
             "sort": 1,
-            "en": "http://124.156.59.127:903/?GameId=58",
-            "zh": "http://124.156.59.127:903/?GameId=58&lang=en"
+            "en": "http://124.156.59.127:903/?roomId=2&GameId=58",
+            "zh": "http://124.156.59.127:903/?roomId=2&GameId=58&lang=en"
         },{
             "id": 61,
             "name": "轮盘",
@@ -406,8 +406,8 @@
             "id": 19,
             "name": "狼月",
             "sort": 1,
-            "en": "http://124.156.59.127:903/?GameId=19",
-            "zh": "http://124.156.59.127:903/?GameId=19&lang=en"
+            "en": "http://124.156.59.127:903/?roomId=2&GameId=19",
+            "zh": "http://124.156.59.127:903/?roomId=2&GameId=19&lang=en"
         },{
             "id": 20,
             "name": "无尽宝藏",
@@ -418,8 +418,8 @@
             "id": 21,
             "name": "忍者",
             "sort": 1,
-            "en": "http://124.156.59.127:903/?GameId=21",
-            "zh": "http://124.156.59.127:903/?GameId=21&lang=en"
+            "en": "http://124.156.59.127:903/?roomId=2&GameId=21",
+            "zh": "http://124.156.59.127:903/?roomId=2&GameId=21&lang=en"
         },{
             "id": 22,
             "name": "星际宝石",
@@ -442,20 +442,20 @@
             "id": 26,
             "name": "游艇大亨",
             "sort": 1,
-            "en": "http://124.156.59.127:903/?GameId=26",
-            "zh": "http://124.156.59.127:903/?GameId=26&lang=en"
+            "en": "http://124.156.59.127:903/?roomId=2&GameId=26",
+            "zh": "http://124.156.59.127:903/?roomId=2&GameId=26&lang=en"
         },{
             "id": 27,
             "name": "糖果万圣节",
             "sort": 1,
-            "en": "http://124.156.59.127:903/?GameId=27",
-            "zh": "http://124.156.59.127:903/?GameId=27&lang=en"
+            "en": "http://124.156.59.127:903/?roomId=2&GameId=27",
+            "zh": "http://124.156.59.127:903/?roomId=2&GameId=27&lang=en"
         },{
             "id": 28,
             "name": "野玫瑰海盗",
             "sort": 1,
-            "en": "http://124.156.59.127:903/?GameId=28",
-            "zh": "http://124.156.59.127:903/?GameId=28&lang=en"
+            "en": "http://124.156.59.127:903/?roomId=2&GameId=28",
+            "zh": "http://124.156.59.127:903/?roomId=2&GameId=28&lang=en"
         },{
             "id": 39,
             "name": "糖果派对",
