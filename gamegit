@@ -69,7 +69,7 @@
             "name": "龙虎斗",
             "sort": 1,
             "en": "http://124.156.59.127:901/?GameId=32",
-            "zh": "http://124.156.59.127:901/?GameId=32&lang=en"
+            "zh": "http://124.156.59.127:901/?GameId=32&lang=en&Dir=H"
         },
         {
             "id": 81,
