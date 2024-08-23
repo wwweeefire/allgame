@@ -3,12 +3,12 @@
      
     "data": {
   "allgame": [
- {
+{
             "id": 35,
             "name": "Money Coming",
             "sort": 1,
-            "en": "https://game-module.pwq.me/mc/index.html?ssoKey=f93b12cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.ewqms.eludom-emag&domain_gs=ewqms&domain_platform=moc.ewqms.eludom-emag&gameID=51&gs=moc.ewqms.eludom-emag&iu=true&legalLang=true",
-            "zh": "https://game-module.pwq.me/mc/index.html?ssoKey=f93b12cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.ewqms.eludom-emag&domain_gs=ewqms&domain_platform=moc.ewqms.eludom-emag&gameID=51&gs=moc.ewqms.eludom-emag&iu=true&legalLang=true",
+            "en": "https://game-module.game-vg.com/mc/index.html?ssoKey=f93b12cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=51&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/mc/index.html?ssoKey=f93b12cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=51&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
    "des":"吉利的一款游戏"
         },
 
@@ -16,19 +16,18 @@
             "id": 1,
             "name": "Lucky comming",
             "sort": 1,
-            "en": "https://game-module.pwq.me/ifff/index.html?ssoKey=f7fb12cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.ewqms.eludom-emag&domain_gs=ewqms&domain_platform=moc.ewqms.eludom-emag&gameID=91&gs=moc.ewqms.eludom-emag&iu=true&legalLang=true",
-            "zh": "https://game-module.pwq.me/ifff/index.html?ssoKey=f7fb12cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.ewqms.eludom-emag&domain_gs=ewqms&domain_platform=moc.ewqms.eludom-emag&gameID=91&gs=moc.ewqms.eludom-emag&iu=true&legalLang=true",
+            "en": "https://game-module.game-vg.com/ifff/index.html?ssoKey=f7fb12cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=91&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/ifff/index.html?ssoKey=f7fb12cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=91&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
     "des":"吉利的一款游戏"
         },
  {
             "id": 1,
             "name": "crazy777",
             "sort": 1,
-            "en": "https://game-module.pwq.me/ols2/index.html?ssoKey=f0fb16cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.ewqms.eludom-emag&domain_gs=ewqms&domain_platform=moc.ewqms.eludom-emag&gameID=91&gs=moc.ewqms.eludom-emag&iu=true&legalLang=true",
-            "zh": "https://game-module.pwq.me/ols2/index.html?ssoKey=f0fb16cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.ewqms.eludom-emag&domain_gs=ewqms&domain_platform=moc.ewqms.eludom-emag&gameID=91&gs=moc.ewqms.eludom-emag&iu=true&legalLang=true",
+            "en": "https://game-module.game-vg.com/ols2/index.html?ssoKey=f9gb16cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=35&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/ols2/index.html?ssoKey=f9gb16cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=35&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
     "des":"吉利的一款游戏"
         }
-    
     
 
 
@@ -42,8 +41,8 @@
             "id": 35,
             "name": "Money Coming",
             "sort": 1,
-            "en": "https://game-module.pwq.me/mc/index.html?ssoKey=f93b12cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.ewqms.eludom-emag&domain_gs=ewqms&domain_platform=moc.ewqms.eludom-emag&gameID=51&gs=moc.ewqms.eludom-emag&iu=true&legalLang=true",
-            "zh": "https://game-module.pwq.me/mc/index.html?ssoKey=f93b12cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.ewqms.eludom-emag&domain_gs=ewqms&domain_platform=moc.ewqms.eludom-emag&gameID=51&gs=moc.ewqms.eludom-emag&iu=true&legalLang=true",
+            "en": "https://game-module.game-vg.com/mc/index.html?ssoKey=f93b12cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=51&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/mc/index.html?ssoKey=f93b12cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=51&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
    "des":"吉利的一款游戏"
         },
 
@@ -51,16 +50,16 @@
             "id": 1,
             "name": "Lucky comming",
             "sort": 1,
-            "en": "https://game-module.pwq.me/ifff/index.html?ssoKey=f7fb12cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.ewqms.eludom-emag&domain_gs=ewqms&domain_platform=moc.ewqms.eludom-emag&gameID=91&gs=moc.ewqms.eludom-emag&iu=true&legalLang=true",
-            "zh": "https://game-module.pwq.me/ifff/index.html?ssoKey=f7fb12cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.ewqms.eludom-emag&domain_gs=ewqms&domain_platform=moc.ewqms.eludom-emag&gameID=91&gs=moc.ewqms.eludom-emag&iu=true&legalLang=true",
+            "en": "https://game-module.game-vg.com/ifff/index.html?ssoKey=f7fb12cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=91&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/ifff/index.html?ssoKey=f7fb12cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=91&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
     "des":"吉利的一款游戏"
         },
  {
             "id": 1,
             "name": "crazy777",
             "sort": 1,
-            "en": "https://game-module.pwq.me/ols2/index.html?ssoKey=f9fb16cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.ewqms.eludom-emag&domain_gs=ewqms&domain_platform=moc.ewqms.eludom-emag&gameID=91&gs=moc.ewqms.eludom-emag&iu=true&legalLang=true",
-            "zh": "https://game-module.pwq.me/ols2/index.html?ssoKey=f9fb16cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.ewqms.eludom-emag&domain_gs=ewqms&domain_platform=moc.ewqms.eludom-emag&gameID=91&gs=moc.ewqms.eludom-emag&iu=true&legalLang=true",
+            "en": "https://game-module.game-vg.com/ols2/index.html?ssoKey=f9gb16cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=35&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/ols2/index.html?ssoKey=f9gb16cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=35&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
     "des":"吉利的一款游戏"
         }
     
