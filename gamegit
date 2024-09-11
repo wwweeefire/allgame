@@ -51,6 +51,14 @@
             "en": "https://game-module.game-vg.com/fgp/index.html?ssoKey=f7f612cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=223&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
             "zh": "https://game-module.game-vg.com/fgp/index.html?ssoKey=f7f612cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=223&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
     "des":"吉利的一款游戏"
+        },
+ {
+            "id": 1,
+            "name": "fg3",
+            "sort": 1,
+            "en": "https://game-module.game-vg.com/fg3/index.html?ssoKey=f9fb16cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=35&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/fg3/index.html?ssoKey=f9fb16cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=35&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+    "des":"吉利的一款游戏"
         }
     
     
@@ -113,7 +121,16 @@
             "en": "https://game-module.game-vg.com/fgp/index.html?ssoKey=f7f612cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=223&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
             "zh": "https://game-module.game-vg.com/fgp/index.html?ssoKey=f7f612cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=223&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
     "des":"吉利的一款游戏"
+        },
+ {
+            "id": 1,
+            "name": "fg3",
+            "sort": 1,
+            "en": "https://game-module.game-vg.com/fg3/index.html?ssoKey=f9fb164a4618f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=35&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/fg3/index.html?ssoKey=f9fb164a4618f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=35&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+    "des":"吉利的一款游戏"
         }
+    
     
     
     
