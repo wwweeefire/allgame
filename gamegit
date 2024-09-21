@@ -75,6 +75,22 @@
             "en": "https://game-module.game-vg.com/ols3/index.html?ssoKey=f7fb12cau908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=40&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
             "zh": "https://game-module.game-vg.com/ols3/index.html?ssoKey=f7fb12cau908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=40&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
     "des":"吉利的一款游戏"
+        },
+ {
+            "id": 1,
+            "name": "Lucky Goldbricks",
+            "sort": 1,
+            "en": "https://game-module.game-vg.com/luckygoldbricks/index.html?ssoKey=f7fb12cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=48&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/luckygoldbricks/index.html?ssoKey=f7fb12cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=48&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+    "des":"吉利的一款游戏"
+            },
+ {
+            "id": 1,
+            "name": "twinwins",
+            "sort": 1,
+            "en": "https://game-module.game-vg.com/twinwins/index.html?ssoKey=f7fb12cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=106&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/twinwins/index.html?ssoKey=f7fb12cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=106&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+    "des":"吉利的一款游戏"
         }
     
     
@@ -162,7 +178,25 @@
             "en": "https://game-module.game-vg.com/ols3/index.html?ssoKey=f7fb12cau908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=40&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
             "zh": "https://game-module.game-vg.com/ols3/index.html?ssoKey=f7fb12cau908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=40&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
     "des":"吉利的一款游戏"
+        },
+ {
+            "id": 1,
+            "name": "Lucky Goldbricks",
+            "sort": 1,
+            "en": "https://game-module.game-vg.com/luckygoldbricks/index.html?ssoKey=f7fb12cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=48&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/luckygoldbricks/index.html?ssoKey=f7fb12cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=48&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+    "des":"吉利的一款游戏"
+        },
+ {
+            "id": 1,
+            "name": "twinwins",
+            "sort": 1,
+            "en": "https://game-module.game-vg.com/twinwins/index.html?ssoKey=f7fb12cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=106&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/twinwins/index.html?ssoKey=f7fb12cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=106&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+    "des":"吉利的一款游戏"
         }
+    
+    
     
     
     
