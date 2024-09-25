@@ -91,6 +91,22 @@
             "en": "https://game-module.game-vg.com/twinwins/index.html?ssoKey=f7fb12cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=106&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
             "zh": "https://game-module.game-vg.com/twinwins/index.html?ssoKey=f7fb12cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=106&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
     "des":"吉利的一款游戏"
+        },
+ {
+            "id": 1,
+            "name": "Jackpot Joker",
+            "sort": 1,
+            "en": "https://game-module.game-vg.com/jpj/index.html?ssoKey=f7f452cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=299&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/jpj/index.html?ssoKey=f7f452cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=299&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+    "des":"吉利的一款游戏"
+            },
+ {
+            "id": 1,
+            "name": "samba",
+            "sort": 1,
+            "en": "https://game-module.game-vg.com/samba/index.html?ssoKey=c473668e48ed419cac467c779e0a1d793950dd3f&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=136&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/samba/index.html?ssoKey=c473668e48ed419cac467c779e0a1d793950dd3f&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=136&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+    "des":"吉利的一款游戏"
         }
     
     
@@ -194,7 +210,24 @@
             "en": "https://game-module.game-vg.com/twinwins/index.html?ssoKey=f7fb12cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=106&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
             "zh": "https://game-module.game-vg.com/twinwins/index.html?ssoKey=f7fb12cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=106&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
     "des":"吉利的一款游戏"
+        },
+ {
+            "id": 1,
+            "name": "Jackpot Joker",
+            "sort": 1,
+            "en": "https://game-module.game-vg.com/jpj/index.html?ssoKey=f7f452cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=299&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/jpj/index.html?ssoKey=f7f452cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=299&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+    "des":"吉利的一款游戏"
+            },
+ {
+            "id": 1,
+            "name": "samba",
+            "sort": 1,
+            "en": "https://game-module.game-vg.com/samba/index.html?ssoKey=c473668e48ed419cac467c779e0a1d793950dd3f&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=136&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/samba/index.html?ssoKey=c473668e48ed419cac467c779e0a1d793950dd3f&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=136&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+    "des":"吉利的一款游戏"
         }
+    
     
     
     
