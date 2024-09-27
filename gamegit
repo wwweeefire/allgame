@@ -120,7 +120,44 @@
             "zh": "https://game-module.game-vg.com/samba/index.html?ssoKey=c473668e48ed419cac467c779e0a1d793950dd3f&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=136&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
     "des":"吉利的一款游戏",
  "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/eca8430d75664121a341e35bae7d6a5d.jpg"
+        },
+ {
+            "id": 1,
+            "name": "potion wizard",
+            "sort": 1,
+            "en": "https://game-module.game-vg.com/pw/index.html?ssoKey=f7fb12cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=299&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/pw/index.html?ssoKey=f7fb12cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=299&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+    "des":"吉利的一款游戏",
+ "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/cbe2bd4b5eeb4c8d87229d1d651d9ce3.jpg"
+            },
+ {
+            "id": 1,
+            "name": "master tiger",
+            "sort": 1,
+            "en": "https://game-module.game-vg.com/cny/index.html?ssoKey=c473608e48ed419cac467c779e0a1d793950dd3f&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=136&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/cny/index.html?ssoKey=c473608e48ed419cac467c779e0a1d793950dd3f&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=136&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+    "des":"吉利的一款游戏",
+ "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/b7462d69e9834b1595cf24b56177a8ed.jpg"
+        },
+ {
+            "id": 1,
+            "name": "Devil Fire",
+            "sort": 1,
+            "en": "https://game-module.game-vg.com/df/index.html?ssoKey=c473608e48ed419cac467c779e0a1d793950dd3f&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=136&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/df/index.html?ssoKey=c473608e48ed419cac467c779e0a1d793950dd3f&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=136&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+    "des":"吉利的一款游戏",
+ "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/0a0e92de82644e7e8f8ab59ef87ea7cd.jpg"
+            },
+ {
+            "id": 1,
+            "name": "Forfune Monkey",
+            "sort": 1,
+            "en": "https://game-module.game-vg.com/mp2/index.html?ssoKey=c473608e48ed419cac467c779e0a1d793950dd3f&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=303&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/mp2/index.html?ssoKey=c473608e48ed419cac467c779e0a1d793950dd3f&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=303&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+    "des":"吉利的一款游戏",
+ "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/3a3001f783bf44eb852b128f73922cbc.jpg"
         }
+    
     
     
     
@@ -253,7 +290,44 @@
             "zh": "https://game-module.game-vg.com/samba/index.html?ssoKey=c473668e48ed419cac467c779e0a1d793950dd3f&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=136&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
     "des":"吉利的一款游戏",
  "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/eca8430d75664121a341e35bae7d6a5d.jpg"
+        },
+ {
+            "id": 1,
+            "name": "potion wizard",
+            "sort": 1,
+            "en": "https://game-module.game-vg.com/pw/index.html?ssoKey=f7fb12cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=299&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/pw/index.html?ssoKey=f7fb12cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=299&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+    "des":"吉利的一款游戏",
+ "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/cbe2bd4b5eeb4c8d87229d1d651d9ce3.jpg"
+            },
+ {
+            "id": 1,
+            "name": "master tiger",
+            "sort": 1,
+            "en": "https://game-module.game-vg.com/cny/index.html?ssoKey=c473608e48ed419cac467c779e0a1d793950dd3f&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=136&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/cny/index.html?ssoKey=c473608e48ed419cac467c779e0a1d793950dd3f&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=136&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+    "des":"吉利的一款游戏",
+ "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/b7462d69e9834b1595cf24b56177a8ed.jpg"
+        },
+ {
+            "id": 1,
+            "name": "Devil Fire",
+            "sort": 1,
+            "en": "https://game-module.game-vg.com/df/index.html?ssoKey=c473608e48ed419cac467c779e0a1d793950dd3f&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=136&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/df/index.html?ssoKey=c473608e48ed419cac467c779e0a1d793950dd3f&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=136&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+    "des":"吉利的一款游戏",
+ "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/0a0e92de82644e7e8f8ab59ef87ea7cd.jpg"
+            },
+ {
+            "id": 1,
+            "name": "Forfune Monkey",
+            "sort": 1,
+            "en": "https://game-module.game-vg.com/mp2/index.html?ssoKey=c473608e48ed419cac467c779e0a1d793950dd3f&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=303&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/mp2/index.html?ssoKey=c473608e48ed419cac467c779e0a1d793950dd3f&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=303&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+    "des":"吉利的一款游戏",
+ "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/3a3001f783bf44eb852b128f73922cbc.jpg"
         }
+    
     
     
     
