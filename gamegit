@@ -165,7 +165,27 @@
             "zh": "https://game-module.game-vg.com/dl/index.html?ssoKey=c473608e48ed419cac467c779e0a1d793950dd3f&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=136&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
     "des":"吉利的一款游戏",
  "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/0a0e92de82644e7e8f8ab59ef87ea7cd.jpg"
+            },
+ {
+            "id": 1,
+            "name": "diamond party",
+            "sort": 1,
+            "en": "https://game-module.game-vg.com/fivestar/index.html?ssoKey=fd6e66bb5c4fc57ebbc94b784db220bad12f50b0&lang=en-US&apiId=1075&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=44&gs=moc.gv-emag.eludom-emag&legalLang=true",
+            "zh": "https://game-module.game-vg.com/fivestar/index.html?ssoKey=fd6e66bb5c4fc57ebbc94b784db220bad12f50b0&lang=en-US&apiId=1075&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=44&gs=moc.gv-emag.eludom-emag&legalLang=true",
+    "des":"吉利的一款游戏",
+ "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/191f913c8dde4850b1d7a0d3510eb5f2.jpg"
+            },
+ {
+            "id": 1,
+            "name": "jili caishen",
+            "sort": 1,
+            "en": "https://game-module.game-vg.com/cai/index.html?ssoKey=f7fb12cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=144&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/cai/index.html?ssoKey=f7fb12cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=144&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+    "des":"吉利的一款游戏",
+ "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/f32c5421d2434ca69c1ba0039b161a6e.jpg"
             }
+    
+    
     
     
     
@@ -345,6 +365,24 @@
             "zh": "https://game-module.game-vg.com/dl/index.html?ssoKey=c473608e48ed419cac467c779e0a1d793950dd3f&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=136&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
     "des":"吉利的一款游戏",
  "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/0a0e92de82644e7e8f8ab59ef87ea7cd.jpg"
+            },
+ {
+            "id": 1,
+            "name": "diamond party",
+            "sort": 1,
+            "en": "https://game-module.game-vg.com/fivestar/index.html?ssoKey=fd6e66bb5c4fc57ebbc94b784db220bad12f50b0&lang=en-US&apiId=1075&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=44&gs=moc.gv-emag.eludom-emag&legalLang=true",
+            "zh": "https://game-module.game-vg.com/fivestar/index.html?ssoKey=fd6e66bb5c4fc57ebbc94b784db220bad12f50b0&lang=en-US&apiId=1075&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=44&gs=moc.gv-emag.eludom-emag&legalLang=true",
+    "des":"吉利的一款游戏",
+ "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/191f913c8dde4850b1d7a0d3510eb5f2.jpg"
+            },
+ {
+            "id": 1,
+            "name": "jili caishen",
+            "sort": 1,
+            "en": "https://game-module.game-vg.com/cai/index.html?ssoKey=f7fb12cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=144&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/cai/index.html?ssoKey=f7fb12cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=144&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+    "des":"吉利的一款游戏",
+ "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/f32c5421d2434ca69c1ba0039b161a6e.jpg"
             }
     
     
