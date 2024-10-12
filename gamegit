@@ -183,7 +183,26 @@
             "zh": "https://game-module.game-vg.com/cai/index.html?ssoKey=f7fb12cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=144&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
     "des":"吉利的一款游戏",
  "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/f32c5421d2434ca69c1ba0039b161a6e.jpg"
+            },
+ {
+            "id": 1,
+            "name": "junjle king",
+            "sort": 1,
+            "en": "https://game-module.game-vg.com/kk2/index.html?ssoKey=f7fc12cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=16&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/kk2/index.html?ssoKey=f7fc12cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=16&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+    "des":"吉利的一款游戏",
+ "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/191f913c8dde4850b1d7a0d3510eb5f2.jpg"
+            },
+ {
+            "id": 1,
+            "name": "happy taxi",
+            "sort": 1,
+            "en": "https://game-module.game-vg.com/taxi/index.html?ssoKey=6c849a6d246f5df299c7cfe6b6d688452d30578d&lang=en-US&apiId=1075&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=116&gs=moc.gv-emag.eludom-emag&legalLang=true",
+            "zh": "https://game-module.game-vg.com/taxi/index.html?ssoKey=6c849a6d246f5df299c7cfe6b6d688452d30578d&lang=en-US&apiId=1075&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=116&gs=moc.gv-emag.eludom-emag&legalLang=true",
+    "des":"吉利的一款游戏",
+ "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/f32c5421d2434ca69c1ba0039b161a6e.jpg"
             }
+    
     
     
     
@@ -383,7 +402,26 @@
             "zh": "https://game-module.game-vg.com/cai/index.html?ssoKey=f7fb12cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=144&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
     "des":"吉利的一款游戏",
  "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/f32c5421d2434ca69c1ba0039b161a6e.jpg"
+            },
+ {
+            "id": 1,
+            "name": "junjle king",
+            "sort": 1,
+            "en": "https://game-module.game-vg.com/kk2/index.html?ssoKey=f7fc12cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=16&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/kk2/index.html?ssoKey=f7fc12cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=16&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+    "des":"吉利的一款游戏",
+ "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/191f913c8dde4850b1d7a0d3510eb5f2.jpg"
+            },
+ {
+            "id": 1,
+            "name": "happy taxi",
+            "sort": 1,
+            "en": "https://game-module.game-vg.com/taxi/index.html?ssoKey=6c849a6d246f5df299c7cfe6b6d688452d30578d&lang=en-US&apiId=1075&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=116&gs=moc.gv-emag.eludom-emag&legalLang=true",
+            "zh": "https://game-module.game-vg.com/taxi/index.html?ssoKey=6c849a6d246f5df299c7cfe6b6d688452d30578d&lang=en-US&apiId=1075&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=116&gs=moc.gv-emag.eludom-emag&legalLang=true",
+    "des":"吉利的一款游戏",
+ "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/f32c5421d2434ca69c1ba0039b161a6e.jpg"
             }
+    
     
     
     
