@@ -534,9 +534,9 @@
             "id": 1,
             "name": "rummy",
             "sort": 1,
-            "en": "https://blockchain.smqwe.com/rankingservice/user/GetRankingListV2?GameId=224&ApiId=1072&Type=1&AccountId=4431120&SubAgentCode=0",
-            "zh": "https://blockchain.smqwe.com/rankingservice/user/GetRankingListV2?GameId=224&ApiId=1072&Type=1&AccountId=4431120&SubAgentCode=0",
-    "des":"棋牌老虎机-",
+            "en": "https://game-qp.smqwe.com/rummyclient/index.html?ssoKey=16d7dcea117e5c709888f013af93c0216b2dc0d8&lang=en-US&apiId=1075&be=moc.ewqms.pq-emag&domain_gs=ewqms&domain_platform=moc.ewqms.pq-emag&gameID=94&gs=moc.ewqms.pq-emag&legalLang=true",
+            "zh": "https://game-qp.smqwe.com/rummyclient/index.html?ssoKey=16d7dcea117e5c709888f013af93c0216b2dc0d8&lang=en-US&apiId=1075&be=moc.ewqms.pq-emag&domain_gs=ewqms&domain_platform=moc.ewqms.pq-emag&gameID=94&gs=moc.ewqms.pq-emag&legalLang=true",
+    "des":"棋牌",
  "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/e6cb310e2357416b9d19bc6d3e248311.jpg"
             }
 
