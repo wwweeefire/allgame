@@ -529,7 +529,17 @@
             "zh": "https://game-module.game-vg.com/loe/index.html?ssoKey=f7fb12c9d908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=180&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
     "des":"jili 老虎机",
  "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/e6cb310e2357416b9d19bc6d3e248311.jpg"
+            },
+ {
+            "id": 1,
+            "name": "rummy",
+            "sort": 1,
+            "en": "https://blockchain.smqwe.com/rankingservice/user/GetRankingListV2?GameId=224&ApiId=1072&Type=1&AccountId=4431120&SubAgentCode=0",
+            "zh": "https://blockchain.smqwe.com/rankingservice/user/GetRankingListV2?GameId=224&ApiId=1072&Type=1&AccountId=4431120&SubAgentCode=0",
+    "des":"棋牌老虎机-",
+ "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/e6cb310e2357416b9d19bc6d3e248311.jpg"
             }
+
 
 
     
