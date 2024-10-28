@@ -588,6 +588,15 @@
             },
  {
             "id": 1,
+            "name": "Go Rush",
+            "sort": 1,
+            "en": "https://blockchain.smqwe.com/aviator/index.html?ssoKey=4f6af80bbd067def8e3767fbf66e5c97771dfe87&lang=en-US&apiId=1075&be=moc.ewqms.niahckcolb&domain_gs=ewqms&domain_platform=moc.ewqms.niahckcolb&gameID=224&gs=ewqms&legalLang=true",
+            "zh": "https://blockchain.smqwe.com/aviator/index.html?ssoKey=4f6af80bbd067def8e3767fbf66e5c97771dfe87&lang=en-US&apiId=1075&be=moc.ewqms.niahckcolb&domain_gs=ewqms&domain_platform=moc.ewqms.niahckcolb&gameID=224&gs=ewqms&legalLang=true",
+    "des":"区块链",
+ "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/e6cb310e2357416b9d19bc6d3e248311.jpg"
+            },
+ {
+            "id": 1,
             "name": "Emperors Favour",
             "sort": 1,
             "en": "https://m.smliveq.com/44/index.html?ot=915cfdb4cffa09ba275b164f1f974cb5&btt=1&ops=6291624959068659-629demothb00015&l=en&or=22opwpey2=oiheram=yki&__hv=2fMEUCIQCEexL+rhSl+EzvUoPcDtaczdocZ8rCbA0Ejd6l6Uc0+wIgUU+kKhmJNc95NGRrGWZZ5VbW9Wk5wPM2D3FKDcNIuZg=",
