@@ -5,10 +5,8 @@
   "allgame": [
 
     
-    
-    
-    
-     {
+     
+ {
             "id": 35,
             "name": "Money Coming",
             "sort": 1,
@@ -631,14 +629,47 @@
             "zh": "https://m.smliveq.com/57/index.html?ot=0AB9E900-352D-48A8-83CC-60CE902084C5&btt=1&ops=b2d1717595102683-b2d2y9xnxfa4&l=en&or=22opwpey=oiheram=yki&__hv=2fMEUCIQCEexL+rhSl+EzvUoPcDtaczdocZ8rCbA0Ejd6l6Uc0+wIgUU+kKhmJNc95NGRrGWZZ5VbW9Wk5wPM2D3FKDcNIuZg",
     "des":"pg老虎机",
  "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/e6cb310e2357416b9d19bc6d3e248311.jpg"
+            }, {
+            "id": 1,
+            "name": "Zeus",
+            "sort": 1,
+            "en": "https://game-module.game-vg.com/zeus/index.html?ssoKey=f7fb12c9d908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1075&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=252&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/zeus/index.html?ssoKey=f7fb12c9d908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1075&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=252&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+    "des":"jili老虎机",
+ "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/e6cb310e2357416b9d19bc6d3e248311.jpg"
+            }, {
+            "id": 1,
+            "name": "ELF bingo",
+            "sort": 1,
+            "en": "https://game-module.game-vg.com/lbingo/?ssoKey=f7fb12cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.ewqms.niahckcolb&domain_gs=ewqms&domain_platform=moc.ewqms.niahckcolb&gameID=258&gs=moc.ewqms.hsif&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/lbingo/?ssoKey=f7fb12cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.ewqms.niahckcolb&domain_gs=ewqms&domain_platform=moc.ewqms.niahckcolb&gameID=258&gs=moc.ewqms.hsif&iu=true&legalLang=true",
+    "des":"吉利 bingo",
+ "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/e6cb310e2357416b9d19bc6d3e248311.jpg"
+            }, {
+            "id": 1,
+            "name": "Cricket King 18",
+            "sort": 1,
+            "en": "https://game-module.game-vg.com/ctk/index.html?ssoKey=c473608e48ed419cac467c779e0a1d793950dd3f&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=7507&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/ctk/index.html?ssoKey=c473608e48ed419cac467c779e0a1d793950dd3f&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=7507&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+    "des":"吉利老虎机",
+ "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/e6cb310e2357416b9d19bc6d3e248311.jpg"
+            }, {
+            "id": 1,
+            "name": "Boxing King",
+            "sort": 1,
+            "en": "https://game-module.game-vg.com/bk/index.html?ssoKey=f93b12cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=77&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/bk/index.html?ssoKey=f93b12cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=77&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+    "des":"吉利老虎机",
+ "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/e6cb310e2357416b9d19bc6d3e248311.jpg"
+            }, {
+            "id": 1,
+            "name": "Super Ace（jili）",
+            "sort": 1,
+            "en": "https://game-module.game-vg.com/fullhouse/index.html??ssoKey=f93b12cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=49&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+            "zh": "https://game-module.game-vg.com/fullhouse/index.html??ssoKey=f93b12cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=49&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
+    "des":"吉利老虎机",
+ "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/e6cb310e2357416b9d19bc6d3e248311.jpg"
             }
-
-
-
-    
-    
-    
-    
     
     
 
@@ -1287,7 +1318,7 @@
             "sort": 1,
             "en": "https://game-module.game-vg.com/lbingo/?ssoKey=f7fb12cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.ewqms.niahckcolb&domain_gs=ewqms&domain_platform=moc.ewqms.niahckcolb&gameID=258&gs=moc.ewqms.hsif&iu=true&legalLang=true",
             "zh": "https://game-module.game-vg.com/lbingo/?ssoKey=f7fb12cad908f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.ewqms.niahckcolb&domain_gs=ewqms&domain_platform=moc.ewqms.niahckcolb&gameID=258&gs=moc.ewqms.hsif&iu=true&legalLang=true",
-    "des":"jili bingo",
+    "des":"吉利 bingo",
  "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/e6cb310e2357416b9d19bc6d3e248311.jpg"
             }, {
             "id": 1,
@@ -1295,7 +1326,7 @@
             "sort": 1,
             "en": "https://game-module.game-vg.com/ctk/index.html?ssoKey=c473608e48ed419cac467c779e0a1d793950dd3f&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=7507&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
             "zh": "https://game-module.game-vg.com/ctk/index.html?ssoKey=c473608e48ed419cac467c779e0a1d793950dd3f&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=7507&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
-    "des":"jili老虎机",
+    "des":"吉利老虎机",
  "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/e6cb310e2357416b9d19bc6d3e248311.jpg"
             }, {
             "id": 1,
@@ -1303,7 +1334,7 @@
             "sort": 1,
             "en": "https://game-module.game-vg.com/bk/index.html?ssoKey=f93b12cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=77&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
             "zh": "https://game-module.game-vg.com/bk/index.html?ssoKey=f93b12cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=77&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
-    "des":"jili老虎机",
+    "des":"吉利老虎机",
  "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/e6cb310e2357416b9d19bc6d3e248311.jpg"
             }, {
             "id": 1,
@@ -1311,7 +1342,7 @@
             "sort": 1,
             "en": "https://game-module.game-vg.com/fullhouse/index.html??ssoKey=f93b12cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=49&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
             "zh": "https://game-module.game-vg.com/fullhouse/index.html??ssoKey=f93b12cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=49&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
-    "des":"jili老虎机",
+    "des":"吉利老虎机",
  "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/e6cb310e2357416b9d19bc6d3e248311.jpg"
             }
 
