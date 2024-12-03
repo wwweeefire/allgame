@@ -985,7 +985,7 @@
             "sort": 1,
             "en": "https://game-qp.smqwe.com/rummyclient/index.html?ssoKey=16d7dcea117e5c709888f013af93c0216b2dc0d8&lang=en-US&apiId=1075&be=moc.ewqms.pq-emag&domain_gs=ewqms&domain_platform=moc.ewqms.pq-emag&gameID=94&gs=moc.ewqms.pq-emag&legalLang=true",
             "zh": "https://game-qp.smqwe.com/rummyclient/index.html?ssoKey=16d7dcea117e5c709888f013af93c0216b2dc0d8&lang=en-US&apiId=1075&be=moc.ewqms.pq-emag&domain_gs=ewqms&domain_platform=moc.ewqms.pq-emag&gameID=94&gs=moc.ewqms.pq-emag&legalLang=true",
-    "des":"棋牌",
+    "des":"jili棋牌",
  "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/e6cb310e2357416b9d19bc6d3e248311.jpg"
             },
  {
@@ -1342,7 +1342,7 @@
             "sort": 1,
             "en": "https://game-module.game-vg.com/fullhouse/index.html??ssoKey=f93b12cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=49&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
             "zh": "https://game-module.game-vg.com/fullhouse/index.html??ssoKey=f93b12cad918f580a58b3b64c5489af48d63fa8a&lang=en-US&apiId=1072&be=moc.gv-emag.eludom-emag&domain_gs=gv-emag&domain_platform=moc.gv-emag.eludom-emag&gameID=49&gs=moc.gv-emag.eludom-emag&iu=true&legalLang=true",
-    "des":"吉利老虎机",
+    "des":"老虎机",
  "icon": "https://dev-bd-me-aws-bucket.s3.me-central-1.amazonaws.com/cms/jpg/e6cb310e2357416b9d19bc6d3e248311.jpg"
             }, {
             "id": 1,
